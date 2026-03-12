@@ -1,4 +1,4 @@
-Smart Travel Planner – Multi-Agent AI System
+### Smart Travel Planner – Multi-Agent AI System
 
 **Smart Travel Planner** is an Agentic AI project that generates intelligent travel plans using a **Multi-Agent architecture**. The system uses multiple specialized AI agents to handle different tasks such as destination recommendation, budget analysis, weather information, and itinerary generation.
 
